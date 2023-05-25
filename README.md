@@ -1,5 +1,5 @@
 # GEO-NER-DATA-2020
-An NER (named entity recognition) dataset for geoscience semi-manually annotated. It contains abstracts of all _articles_ published in and before 2020 on the following journals:
+A semi-manually annotated NER (named entity recognition) dataset for the domain of geology. It contains abstracts of all _articles_ published in and before 2020 on the following journals:
 - _Nature Geoscience_
 - _Geology_
 - _Earth and Planetary Science Letters_
