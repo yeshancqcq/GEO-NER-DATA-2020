@@ -29229,7 +29229,7 @@ of	O
 folded	FEAT
 mid-Mesozoic	TIME
 and	O
-Palaeozoic	O
+Palaeozoic	TIME
 strata	O
 with	O
 minor	O
@@ -31261,7 +31261,7 @@ for	O
 the	O
 town	O
 of	O
-Morrison	O
+Morrison	LOC
 ,	O
 Colorado	LOC
 ,	O
@@ -35943,7 +35943,7 @@ northern	LOC
 Pakistan	LOC
 eastward	O
 to	O
-Namche-Barwa	O
+Namche-Barwa	LOC
 (	O
 7756	O
 m	O
@@ -35953,7 +35953,7 @@ the	O
 gorge	FEAT
 of	O
 the	O
-Tsangpo-Brahmaputra	O
+Tsangpo-Brahmaputra	LOC
 in	O
 eastern	LOC
 Tibet	LOC
@@ -36112,7 +36112,7 @@ Nepal	LOC
 .	O
 It	O
 represents	O
-Holocene/Recent	O
+Holocene/Recent	TIME
 sedimentation	O
 belt	O
 where	O
@@ -113440,7 +113440,7 @@ other	O
 heat	O
 from	O
 the	O
-mantle's	O
+mantle's	PLANET
 convection	O
 currents	O
 makes	O
@@ -114467,24 +114467,4 @@ Earth	O
 remain	O
 constant	O
 .	O
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-,O"	0
-10,O"	0
-45,O"	0
-60,O"	0
-CaSO4,O"	2
-Din,O"	2
-J,O"	2
-Lourinh,STRAT"	2
-ulv,O"	0
 	
