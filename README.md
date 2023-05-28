@@ -1,6 +1,6 @@
 # NER Dataset for Geology
 ### GEO_NER_DATA_casual.txt
-A semi-manually annotated NER dataset containing geoscience-related non-academic texts from intro-level textbooks, blogs, wikipedia, and some other online resources.
+A semi-manually annotated NER (named entity recognition) dataset containing geoscience-related non-academic texts from intro-level textbooks, blogs, wikipedia, and some other online resources.
 
 ### Labelled entities:
 
