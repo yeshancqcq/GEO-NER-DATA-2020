@@ -1231,7 +1231,7 @@ Gondwana	LOC
 and	O
 headed	O
 towards	O
-Laurasia	O
+Laurasia	LOC
 ,	O
 thus	O
 closing	O
@@ -1476,7 +1476,7 @@ until	O
 the	O
 Cretaceous	TIME
 when	O
-Laurasia	O
+Laurasia	LOC
 started	O
 to	O
 rotate	O
@@ -1501,7 +1501,7 @@ The	O
 clockwise	O
 motion	O
 of	O
-Laurasia	O
+Laurasia	LOC
 led	O
 much	O
 later	O
@@ -1843,7 +1843,7 @@ to	O
 Oligocene	TIME
 )	O
 .	O
-Laurasia	O
+Laurasia	LOC
 split	O
 when	O
 North	LOC
@@ -3100,7 +3100,7 @@ time	O
 the	O
 supercontinent	TIME
 of	O
-Laurasia	O
+Laurasia	LOC
 had	O
 recently	O
 split	O
