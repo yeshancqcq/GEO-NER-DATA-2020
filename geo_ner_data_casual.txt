@@ -459,7 +459,7 @@ extending	O
 from	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 to	O
 Caledonides	LOC
 of	O
@@ -2747,7 +2747,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 which	O
 has	O
 been	O
@@ -3064,7 +3064,7 @@ Throughout	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 it	O
 variously	O
@@ -3247,7 +3247,7 @@ down	O
 to	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Coal	MINERAL
 is	O
@@ -5555,7 +5555,7 @@ various	O
 parts	O
 of	O
 both	O
-states	O
+States	LOC
 and	O
 has	O
 significantly	O
@@ -5937,7 +5937,7 @@ that	O
 stretches	O
 across	O
 multiple	O
-states	O
+States	LOC
 ,	O
 including	O
 Pennsylvania	LOC
@@ -6761,7 +6761,7 @@ among	O
 the	O
 leading	O
 coal-producing	O
-states	O
+States	LOC
 within	O
 the	O
 Appalachian	LOC
@@ -6803,13 +6803,13 @@ reserves	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 stretches	O
 across	O
 several	O
-states	O
+States	LOC
 ,	O
 including	O
 Pennsylvania	LOC
@@ -7088,7 +7088,7 @@ state	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 state's	O
@@ -7361,7 +7361,7 @@ southwestern	LOC
 Montana	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 ,	O
 exposed	O
 at	O
@@ -8478,7 +8478,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 have	O
 complex	O
@@ -8985,7 +8985,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 famous	O
 for	O
@@ -16936,7 +16936,7 @@ Dakota	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 Frenchman	STRAT
@@ -17014,7 +17014,7 @@ Formation	STRAT
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 he	O
 Battle	STRAT
@@ -17849,7 +17849,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 are	O
 the	O
 Horsethief	STRAT
@@ -24957,7 +24957,7 @@ Dakota	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 preserves	O
@@ -24993,7 +24993,7 @@ of	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 preserves	O
@@ -25059,7 +25059,7 @@ in	O
 the	O
 southwestern	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 Depending	O
 on	O
@@ -25770,7 +25770,7 @@ Mountains	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 where	O
 the	O
@@ -26217,7 +26217,7 @@ Mexico	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 ridge	FEAT
@@ -27453,7 +27453,7 @@ Mountains	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 is	O
 a	O
 geological	O
@@ -28213,7 +28213,7 @@ Rockies	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 definition	O
 of	O
 the	O
@@ -28373,7 +28373,7 @@ is	O
 at	O
 the	O
 Canada-United	O
-States	O
+States	LOC
 border	O
 on	O
 49th	O
@@ -29563,7 +29563,7 @@ Range	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 However	O
 ,	O
@@ -30508,7 +30508,7 @@ Formation	O
 .	O
 Another	O
 finding	O
-states	O
+States	LOC
 that	O
 significant	O
 amounts	O
@@ -37716,7 +37716,7 @@ is	O
 now	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Up	O
 to	O
@@ -37810,7 +37810,7 @@ zone	O
 .	O
 The	O
 Leilani	O
-Estates	O
+EStates	LOC
 and	O
 Lanipuna	O
 Gardens	O
@@ -38832,7 +38832,7 @@ introduced	O
 by	O
 most	O
 federal	O
-states	O
+States	LOC
 to	O
 protect	O
 the	O
@@ -38878,7 +38878,7 @@ started	O
 the	O
 modern	O
 United	LOC
-States	O
+States	LOC
 petroleum	O
 industry	O
 .	O
@@ -40313,7 +40313,7 @@ underlies	O
 parts	O
 of	O
 eight	O
-states	O
+States	LOC
 from	O
 central	LOC
 Alabama	LOC
@@ -40718,7 +40718,7 @@ part	O
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 basin	O
@@ -46117,7 +46117,7 @@ gas	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Notable	O
 oil	O
@@ -46159,7 +46159,7 @@ iodine	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 and	O
 a	O
 major	O
@@ -48160,7 +48160,7 @@ natural	O
 features	O
 of	O
 these	O
-states	O
+States	LOC
 .	O
 The	O
 Sichuan	LOC
@@ -49036,7 +49036,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 boasts	O
 a	O
@@ -49607,7 +49607,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 possesses	O
 a	O
@@ -49981,11 +49981,11 @@ of	O
 the	O
 top	O
 mining	O
-states	O
+States	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 state	O
@@ -50132,7 +50132,7 @@ in	O
 the	O
 north-central	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 possess	O
 unique	O
@@ -50159,7 +50159,7 @@ the	O
 geology	O
 of	O
 these	O
-states	O
+States	LOC
 in	O
 more	O
 detail	O
@@ -50218,7 +50218,7 @@ western	O
 regions	O
 of	O
 both	O
-states	O
+States	LOC
 are	O
 part	O
 of	O
@@ -50301,7 +50301,7 @@ eastern	O
 parts	O
 of	O
 the	O
-states	O
+States	LOC
 ,	O
 the	O
 geology	O
@@ -50476,7 +50476,7 @@ the	O
 area	O
 .	O
 Both	O
-states	O
+States	LOC
 have	O
 significant	O
 mineral	O
@@ -50578,7 +50578,7 @@ The	O
 geology	O
 of	O
 these	O
-states	O
+States	LOC
 provides	O
 valuable	O
 insights	O
@@ -50611,7 +50611,7 @@ in	O
 the	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 exhibits	O
 a	O
@@ -51095,7 +51095,7 @@ in	O
 the	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 possesses	O
 a	O
@@ -51593,7 +51593,7 @@ in	O
 the	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 and	O
 exhibit	O
 a	O
@@ -51657,7 +51657,7 @@ western	O
 part	O
 of	O
 both	O
-states	O
+States	LOC
 is	O
 part	O
 of	O
@@ -52026,7 +52026,7 @@ various	O
 industries	O
 .	O
 Both	O
-states	O
+States	LOC
 have	O
 reserves	O
 of	O
@@ -53625,7 +53625,7 @@ primarily	O
 within	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Its	O
 geological	O
@@ -54127,7 +54127,7 @@ basin	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 centered	O
 in	O
@@ -54479,7 +54479,7 @@ area	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Oil	O
 production	O
@@ -54756,7 +54756,7 @@ Basin	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 is	O
@@ -55553,7 +55553,7 @@ situated	O
 between	O
 the	O
 United	LOC
-States	O
+States	LOC
 and	O
 Canada	LOC
 .	O
@@ -56035,7 +56035,7 @@ located	O
 between	O
 the	O
 United	LOC
-States	O
+States	LOC
 and	O
 Canada	LOC
 .	O
@@ -59159,7 +59159,7 @@ Wyoming	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 are	O
 a	O
@@ -61016,7 +61016,7 @@ County	LOC
 California	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 mountain	O
@@ -61356,7 +61356,7 @@ in	O
 the	O
 continental	O
 United	LOC
-States	O
+States	LOC
 and	O
 have	O
 accelerated	O
@@ -62142,7 +62142,7 @@ ranges	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Stretching	O
 over	O
@@ -62566,7 +62566,7 @@ of	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 Today	O
 ,	O
@@ -63282,7 +63282,7 @@ in	O
 the	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 has	O
 a	O
@@ -63875,12 +63875,12 @@ which	O
 stretches	O
 across	O
 several	O
-states	O
+States	LOC
 in	O
 the	O
 central	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 geology	O
@@ -65114,7 +65114,7 @@ province	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 including	O
 northern	LOC
@@ -70981,7 +70981,7 @@ spread	O
 across	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 New	LOC
 Mexico	LOC
@@ -71714,7 +71714,7 @@ spread	O
 across	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 Nevada	LOC
 ,	O
@@ -71958,7 +71958,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 In	O
 Wyoming	LOC
@@ -72039,7 +72039,7 @@ spread	O
 across	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 Wyoming	LOC
 ,	O
@@ -72353,7 +72353,7 @@ spread	O
 across	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 southern	LOC
 Nevada	LOC
@@ -72376,7 +72376,7 @@ province	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 Navajo	STRAT
@@ -72885,7 +72885,7 @@ province	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 including	O
 northern	LOC
@@ -75104,7 +75104,7 @@ part	O
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 Louisiana	LOC
 exhibits	O
@@ -75474,11 +75474,11 @@ oil	O
 and	O
 gas	O
 producing	O
-states	O
+States	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 Additionally	O
 ,	O
@@ -75940,7 +75940,7 @@ resources	O
 compared	O
 to	O
 other	O
-states	O
+States	LOC
 .	O
 However	O
 ,	O
@@ -76004,7 +76004,7 @@ in	O
 the	O
 southeastern	LOC
 United	LOC
-States	O
+States	LOC
 ,	O
 possesses	O
 a	O
@@ -76786,7 +76786,7 @@ compared	O
 to	O
 some	O
 other	O
-states	O
+States	LOC
 .	O
 Some	O
 notable	O
@@ -79563,7 +79563,7 @@ in	O
 the	O
 northeastern	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 dates	O
@@ -79791,7 +79791,7 @@ in	O
 the	O
 eastern	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 is	O
@@ -80100,7 +80100,7 @@ coast	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 is	O
@@ -80180,7 +80180,7 @@ of	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 and	O
 a	O
 flora	O
@@ -81417,7 +81417,7 @@ York	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 it	O
 extends	O
@@ -85657,7 +85657,7 @@ south-central	LOC
 Utah	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 about	O
 16	O
 miles	O
@@ -86150,7 +86150,7 @@ province	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 which	O
 crops	O
 out	O
@@ -86350,7 +86350,7 @@ spread	O
 across	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 Nevada	LOC
 ,	O
@@ -87008,7 +87008,7 @@ Colorado	LOC
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 includes	O
@@ -87368,7 +87368,7 @@ projects	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 Piceance	LOC
@@ -88599,7 +88599,7 @@ formation	O
 ,	O
 covering	O
 many	O
-states	O
+States	LOC
 and	O
 a	O
 province	O
@@ -89343,7 +89343,7 @@ York	LOC
 State	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 .	O
 Details	O
 of	O
@@ -90971,7 +90971,7 @@ region	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 It	O
 is	O
@@ -92143,7 +92143,7 @@ formation	O
 in	O
 the	O
 US	LOC
-states	O
+States	LOC
 of	O
 Michigan	LOC
 ,	O
@@ -93380,7 +93380,7 @@ of	O
 the	O
 eastern	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 Pottsville	STRAT
@@ -93937,7 +93937,7 @@ and	O
 Wisconsin	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 ,	O
 but	O
 has	O
@@ -94163,7 +94163,7 @@ Canada	LOC
 and	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 stone	O
@@ -97199,7 +97199,7 @@ Canada	LOC
 In	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 the	O
 craton	O
@@ -102128,7 +102128,7 @@ in	O
 the	O
 western	LOC
 United	LOC
-States	O
+States	LOC
 .	O
 These	O
 volcanic	FEAT
@@ -107470,7 +107470,7 @@ West	LOC
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 canyon	O
@@ -107721,7 +107721,7 @@ in	O
 the	O
 lower	O
 48	O
-states	O
+States	LOC
 of	O
 the	O
 USA	LOC
@@ -107789,7 +107789,7 @@ place	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 where	O
 bison	O
 have	O
@@ -111191,7 +111191,7 @@ regions	O
 in	O
 the	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 vast	O
@@ -111791,7 +111791,7 @@ in	O
 California	LOC
 ,	O
 United	LOC
-States	O
+States	LOC
 .	O
 The	O
 idea	O
@@ -112489,12 +112489,12 @@ coast	O
 of	O
 the	O
 United	LOC
-States	O
+States	LOC
 ,	O
 spanning	O
 across	O
 the	O
-states	O
+States	LOC
 of	O
 California	LOC
 ,	O
