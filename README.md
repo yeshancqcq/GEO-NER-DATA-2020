@@ -1,14 +1,6 @@
 # NER Dataset for Geology
-### GEO_NER_DATA_2020.txt
-A semi-manually annotated NER (named entity recognition) dataset for the domain of geology. It contains **abstracts** of all _articles_ published in and before 2020 on the following journals:
-- _Nature Geoscience_
-- _Geology_
-- _Earth and Planetary Science Letters_
-
-Data source: Scopus
-
 ### GEO_NER_DATA_casual.txt
-Another dataset containing annotated geoscience-related texts from blogs, wikipedia, k-12 science books, and intro-level textbooks.
+A semi-manually annotated NER dataset containing geoscience-related texts from intro-level textbooks, blogs, wikipedia, and some other online resources.
 
 ### Labelled entities:
 
@@ -16,10 +8,10 @@ Another dataset containing annotated geoscience-related texts from blogs, wikipe
 - **TIME**: geological intervals or specific events (e.g. Precambrian, Cretaceous, Eocene, K-Pg event, Last Glacial Maximum, PETM, OAEs, Acadian orogeny...)
 - **LITH**: rock types (e.g. limestone, igneous rock, wackestone, metasedimentary rock, mafic rock, basalt, slate, marble...)
 - **MINERAL**: minerals (e.g. quartz, feldspar, plagioclase, opal...)
-- **PROC**: geological processes (e.g. transgression, uplifting, earthquake, weathering, calving, orogeny...) [Not available in the casual dataset]
 - **PLANET**: planetary terms (e.g. plate tectonics, mantle, mantle convection, atmosphere, asthenosphere, Benioff zone...)
-- **FEAT**: major geological features (e.g. fold, fault, syncline, thrust, fjord, abyssal plain, foreland basin, xenolith, tidal flat, alluvial fan, moraine, lagoon...)
 - **STRAT**: strata names (e.g. Hell Creek Formation, Morrison Formation, Dakota Sandstone, Mancos Shale, Fiftymile Member...)
+- **FEAT**: major geological features (e.g. fold, fault, syncline, thrust, fjord, abyssal plain, foreland basin, xenolith, tidal flat, alluvial fan, moraine, lagoon...) 【Please note that this **FEAT** category is annotated subjectively and you may consider removing it for the NER studies if necessary】
 
 
-_Note: The datasets (especially the Abstract dataset) may still need more rounds of check. It should be noted that annotation of some words is rather subjective. There may also be text errors caused by the encoding option when exporting. Feel free to PR if you find an labelling error._
+
+_Note: The dataset may still need more rounds of proof-reading. It should be noted that annotation of some words is rather subjective. There may also be text errors caused by the encoding option when exporting. Feel free to PR if you find an labelling error._
