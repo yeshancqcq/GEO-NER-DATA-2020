@@ -111438,7 +111438,7 @@ economic	O
 minerals	O
 .	O
 The	O
-kandites	O
+kandites	MINERAL
 are	O
 clays	MINERAL
 that	O
@@ -111454,7 +111454,7 @@ layer	O
 similar	O
 to	O
 the	O
-gibbsite	O
+gibbsite	MINERAL
 structure	O
 .	O
 Since	O
